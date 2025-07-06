@@ -56,21 +56,13 @@ export default {
         {
           id: 4,
           timeSchedule: 2,
-          title: "Ballard",
-          address: "2021 NW Market St",
-          city: "Seattle WA 98117",
-          phone: "(206) 782-5715",
-        },
-        {
-          id: 5,
-          timeSchedule: 2,
           title: "Wallingford",
           address: "2309 N 45th St",
           city: "Seattle WA 98103",
           phone: "(206) 632-7378",
         },
         {
-          id: 6,
+          id: 5,
           timeSchedule: 1,
           title: "Lynnwood",
           address: "16809 Highway 99",
@@ -78,7 +70,7 @@ export default {
           phone: "(425) 999-6596",
         },
         {
-          id: 7,
+          id: 6,
           timeSchedule: 2,
           title: "Fremont",
           address: "626 N 34th St",
